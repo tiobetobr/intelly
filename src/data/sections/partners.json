@@ -1,0 +1,46 @@
+{
+    "subtitle": "crescemos quando nossos clientes crescem!",
+    "title": "Dedicação, parceria e confiança! <br/>Essa é a nossa receita!",
+    "items": [
+        {
+            "link": "https://aguaslindasdegoias.go.gov.br/",
+            "label": "Visite o Website",
+            "image": "/images/brand1.png"
+        },
+        {
+            "link": "https://www.manserv.com.br/",
+            "label": "Visite o Website",
+            "image": "/images/brand2.png"
+        },
+        {
+            "link": "https://oabsergipe.org.br/",
+            "label": "Visite o Website",
+            "image": "/images/brand3.png"
+        },
+        {
+            "link": "https://www.santos.sp.gov.br/",
+            "label": "Visite o Website",
+            "image": "/images/brand4.png"
+        },
+        {
+            "link": "https://www.vipcartao.com/",
+            "label": "Visite o Website",
+            "image": "/images/brand5.png"
+        },
+        {
+            "link": "https://www.ipegrupo.com/",
+            "label": "Visite o Website",
+            "image": "/images/brand6.png"
+        },
+        {
+            "link": "https://www.jvcmed.com.br/",
+            "label": "Visite o Website",
+            "image": "/images/brand7.png"
+        },
+        {
+            "link": "https://cmocbrasil.com/br",
+            "label": "Visite o Website",
+            "image": "/images/brand8.png"
+        }
+    ]
+}
